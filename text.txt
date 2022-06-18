@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/LTaka/cs-go-csv/main/tb_lobby_stats_player.csv
+https://raw.githubusercontent.com/LTaka/cs-go-csv/main/tb_medalha.csv
+https://raw.githubusercontent.com/LTaka/cs-go-csv/main/tb_players.csv
+https://raw.githubusercontent.com/LTaka/cs-go-csv/main/tb_players_medalha.csv
